@@ -8,8 +8,8 @@ const PREFIX = "!";
 const ADMINS = ["61590442478936"];  // UID Facebook của bạn
 
 // ============== THÔNG TIN ĐĂNG NHẬP FACEBOOK ==============
-const FB_EMAIL = "az555lqok@gmail.com";      // ← Email Facebook của bạn
-const FB_PASSWORD = "mat_khau_cua_ban";       // ← Mật khẩu Facebook của bạn
+const FB_EMAIL = "minhquangdz2012abc@gmail.com";      // ← Email Facebook của bạn
+const FB_PASSWORD = "minhquangk12";       // ← Mật khẩu Facebook của bạn
 
 // ============== CẤU HÌNH GAME ==============
 const GAME_IP = "211.253.26.47";
